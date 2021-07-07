@@ -1,6 +1,6 @@
 body { 
-   background-color: #f72585 ;
-   font-family: cursive;
+   background-color: #31572c ;
+   font-family: 'Times New Roman', Times, serif;
 }
 
 
@@ -18,24 +18,25 @@ body {
 
 .medium_pizza 
 {
-    background-color: #3f37c9;
+    background-color: #31572c;
+    flex: 1
 }
 
 .large_pizza
 {
-    background-color: #fb8500;
-    flex :1
+    background-color: #386641;
+    flex: 1
 }
 
 .small_pizza
 {
-    background-color: darkred;
+    background-color: #4f772d;
     flex: 1
 }
 
 .contact_us
 {
-    background-color: #b5838d;
+    background-color: #805b10;
     flex:1
 }
 
